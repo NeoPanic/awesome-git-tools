@@ -51,8 +51,9 @@ List of useful Git tools
 ## Conclusion
 
 1. Follow [delta](https://dandavison.github.io/delta/configuration.html) guide
-2. Follow [mergiraf](https://mergiraf.org/usage.html) guide
-3. Follow below change
+2. Follow [difftastic](https://difftastic.wilfred.me.uk/git.html#difftool) guide
+3. Follow [mergiraf](https://mergiraf.org/usage.html) guide
+4. Follow below change
 
 `~/.gitconfig`
 
