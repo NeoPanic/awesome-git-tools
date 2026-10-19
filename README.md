@@ -25,6 +25,7 @@ List of useful Git tools
 | ------------ | ---------------------------------- | ------------------------------------------- | ----------- | -------- | ----------- | ------------ |
 | diffsitter   | -                                  | <https://github.com/afnanenayet/diffsitter> | Better      | Fastest  | Free        | MIT          |
 | difftastic   | <https://difftastic.wilfred.me.uk> | <https://github.com/Wilfred/difftastic>     | Best        | Faster   | Free        | MIT          |
+| Glim (macOS GUI) | - | <https://github.com/NeoPanic/Glim> | - | - | Free | MIT |
 | GumTree      | -                                  | <https://github.com/GumTreeDiff/gumtree>    | -           | Moderate | Free        | LGPL-3.0     |
 | icdiff       | <https://www.jefftk.com/icdiff>    | <https://github.com/jeffkaufman/icdiff>     | -           | Slow     | Free        | GPL-like ?   |
 | sdiff        | -                                  | <https://github.com/pulkin/sdiff>           | Good        | Fast     | Free        | BSD-3-Clause |
